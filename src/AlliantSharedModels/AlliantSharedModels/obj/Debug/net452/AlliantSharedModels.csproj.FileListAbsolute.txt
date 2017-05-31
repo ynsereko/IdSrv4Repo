@@ -1,0 +1,5 @@
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\bin\Debug\net452\AlliantSharedModels.dll
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\bin\Debug\net452\AlliantSharedModels.pdb
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\obj\Debug\net452\AlliantSharedModels.AssemblyInfo.cs
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\obj\Debug\net452\AlliantSharedModels.dll
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\obj\Debug\net452\AlliantSharedModels.pdb

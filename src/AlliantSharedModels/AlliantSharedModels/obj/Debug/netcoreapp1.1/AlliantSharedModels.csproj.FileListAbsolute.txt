@@ -1,0 +1,6 @@
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\bin\Debug\netcoreapp1.1\AlliantSharedModels.deps.json
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\obj\Debug\netcoreapp1.1\AlliantSharedModels.AssemblyInfo.cs
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\bin\Debug\netcoreapp1.1\AlliantSharedModels.dll
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\bin\Debug\netcoreapp1.1\AlliantSharedModels.pdb
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\obj\Debug\netcoreapp1.1\AlliantSharedModels.dll
+C:\Repos\IdSrv4Repo\src\AlliantSharedModels\AlliantSharedModels\obj\Debug\netcoreapp1.1\AlliantSharedModels.pdb

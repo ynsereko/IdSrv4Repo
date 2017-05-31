@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ynsereko\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Repos\\IdSrv4Repo\\src\\AlliantSharedModels\\AlliantSharedModels\\AlliantSharedModels.csproj",
+      "projectName": "AlliantSharedModels",
+      "projectPath": "C:\\Repos\\IdSrv4Repo\\src\\AlliantSharedModels\\AlliantSharedModels\\AlliantSharedModels.csproj",
+      "outputPath": "C:\\Repos\\IdSrv4Repo\\src\\AlliantSharedModels\\AlliantSharedModels\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {}
+    }
+  }
+}
